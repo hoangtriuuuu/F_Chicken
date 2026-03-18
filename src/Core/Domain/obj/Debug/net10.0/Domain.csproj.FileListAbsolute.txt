@@ -1,0 +1,44 @@
+E:\Học Tập\Kỳ 4\NET1051 - Lập trình C#5\ASSM2\src\Core\Domain\bin\Debug\net10.0\Domain.deps.json
+E:\Học Tập\Kỳ 4\NET1051 - Lập trình C#5\ASSM2\src\Core\Domain\bin\Debug\net10.0\Domain.dll
+E:\Học Tập\Kỳ 4\NET1051 - Lập trình C#5\ASSM2\src\Core\Domain\bin\Debug\net10.0\Domain.pdb
+E:\Học Tập\Kỳ 4\NET1051 - Lập trình C#5\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Học Tập\Kỳ 4\NET1051 - Lập trình C#5\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+E:\Học Tập\Kỳ 4\NET1051 - Lập trình C#5\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+E:\Học Tập\Kỳ 4\NET1051 - Lập trình C#5\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+E:\Học Tập\Kỳ 4\NET1051 - Lập trình C#5\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.dll
+E:\Học Tập\Kỳ 4\NET1051 - Lập trình C#5\ASSM2\src\Core\Domain\obj\Debug\net10.0\refint\Domain.dll
+E:\Học Tập\Kỳ 4\NET1051 - Lập trình C#5\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.pdb
+E:\Học Tập\Kỳ 4\NET1051 - Lập trình C#5\ASSM2\src\Core\Domain\obj\Debug\net10.0\ref\Domain.dll
+E:\Học Tập\Kỳ 4\CShap5\ASSM2\src\Core\Domain\bin\Debug\net10.0\Domain.deps.json
+E:\Học Tập\Kỳ 4\CShap5\ASSM2\src\Core\Domain\bin\Debug\net10.0\Domain.dll
+E:\Học Tập\Kỳ 4\CShap5\ASSM2\src\Core\Domain\bin\Debug\net10.0\Domain.pdb
+E:\Học Tập\Kỳ 4\CShap5\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Học Tập\Kỳ 4\CShap5\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+E:\Học Tập\Kỳ 4\CShap5\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+E:\Học Tập\Kỳ 4\CShap5\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+E:\Học Tập\Kỳ 4\CShap5\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.dll
+E:\Học Tập\Kỳ 4\CShap5\ASSM2\src\Core\Domain\obj\Debug\net10.0\refint\Domain.dll
+E:\Học Tập\Kỳ 4\CShap5\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.pdb
+E:\Học Tập\Kỳ 4\CShap5\ASSM2\src\Core\Domain\obj\Debug\net10.0\ref\Domain.dll
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình C#5\PROJECT\ASM2\ASSM2\src\Core\Domain\bin\Debug\net10.0\Domain.deps.json
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình C#5\PROJECT\ASM2\ASSM2\src\Core\Domain\bin\Debug\net10.0\Domain.dll
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình C#5\PROJECT\ASM2\ASSM2\src\Core\Domain\bin\Debug\net10.0\Domain.pdb
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình C#5\PROJECT\ASM2\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình C#5\PROJECT\ASM2\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình C#5\PROJECT\ASM2\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình C#5\PROJECT\ASM2\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình C#5\PROJECT\ASM2\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.dll
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình C#5\PROJECT\ASM2\ASSM2\src\Core\Domain\obj\Debug\net10.0\refint\Domain.dll
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình C#5\PROJECT\ASM2\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.pdb
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình C#5\PROJECT\ASM2\ASSM2\src\Core\Domain\obj\Debug\net10.0\ref\Domain.dll
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Domain\bin\Debug\net10.0\Domain.deps.json
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Domain\bin\Debug\net10.0\Domain.dll
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Domain\bin\Debug\net10.0\Domain.pdb
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.dll
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Domain\obj\Debug\net10.0\refint\Domain.dll
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.pdb
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Domain\obj\Debug\net10.0\ref\Domain.dll

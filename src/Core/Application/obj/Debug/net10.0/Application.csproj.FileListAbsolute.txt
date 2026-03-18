@@ -1,0 +1,60 @@
+E:\Học Tập\Kỳ 4\NET1051 - Lập trình C#5\ASSM2\src\Core\Application\bin\Debug\net10.0\Application.deps.json
+E:\Học Tập\Kỳ 4\NET1051 - Lập trình C#5\ASSM2\src\Core\Application\bin\Debug\net10.0\Application.dll
+E:\Học Tập\Kỳ 4\NET1051 - Lập trình C#5\ASSM2\src\Core\Application\bin\Debug\net10.0\Application.pdb
+E:\Học Tập\Kỳ 4\NET1051 - Lập trình C#5\ASSM2\src\Core\Application\bin\Debug\net10.0\Domain.dll
+E:\Học Tập\Kỳ 4\NET1051 - Lập trình C#5\ASSM2\src\Core\Application\bin\Debug\net10.0\Domain.pdb
+E:\Học Tập\Kỳ 4\NET1051 - Lập trình C#5\ASSM2\src\Core\Application\obj\Debug\net10.0\Application.csproj.AssemblyReference.cache
+E:\Học Tập\Kỳ 4\NET1051 - Lập trình C#5\ASSM2\src\Core\Application\obj\Debug\net10.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Học Tập\Kỳ 4\NET1051 - Lập trình C#5\ASSM2\src\Core\Application\obj\Debug\net10.0\Application.AssemblyInfoInputs.cache
+E:\Học Tập\Kỳ 4\NET1051 - Lập trình C#5\ASSM2\src\Core\Application\obj\Debug\net10.0\Application.AssemblyInfo.cs
+E:\Học Tập\Kỳ 4\NET1051 - Lập trình C#5\ASSM2\src\Core\Application\obj\Debug\net10.0\Application.csproj.CoreCompileInputs.cache
+E:\Học Tập\Kỳ 4\NET1051 - Lập trình C#5\ASSM2\src\Core\Application\obj\Debug\net10.0\Applicat.44B5EDA2.Up2Date
+E:\Học Tập\Kỳ 4\NET1051 - Lập trình C#5\ASSM2\src\Core\Application\obj\Debug\net10.0\Application.dll
+E:\Học Tập\Kỳ 4\NET1051 - Lập trình C#5\ASSM2\src\Core\Application\obj\Debug\net10.0\refint\Application.dll
+E:\Học Tập\Kỳ 4\NET1051 - Lập trình C#5\ASSM2\src\Core\Application\obj\Debug\net10.0\Application.pdb
+E:\Học Tập\Kỳ 4\NET1051 - Lập trình C#5\ASSM2\src\Core\Application\obj\Debug\net10.0\ref\Application.dll
+E:\Học Tập\Kỳ 4\CShap5\ASSM2\src\Core\Application\bin\Debug\net10.0\Application.deps.json
+E:\Học Tập\Kỳ 4\CShap5\ASSM2\src\Core\Application\bin\Debug\net10.0\Application.dll
+E:\Học Tập\Kỳ 4\CShap5\ASSM2\src\Core\Application\bin\Debug\net10.0\Application.pdb
+E:\Học Tập\Kỳ 4\CShap5\ASSM2\src\Core\Application\bin\Debug\net10.0\Domain.dll
+E:\Học Tập\Kỳ 4\CShap5\ASSM2\src\Core\Application\bin\Debug\net10.0\Domain.pdb
+E:\Học Tập\Kỳ 4\CShap5\ASSM2\src\Core\Application\obj\Debug\net10.0\Application.csproj.AssemblyReference.cache
+E:\Học Tập\Kỳ 4\CShap5\ASSM2\src\Core\Application\obj\Debug\net10.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Học Tập\Kỳ 4\CShap5\ASSM2\src\Core\Application\obj\Debug\net10.0\Application.AssemblyInfoInputs.cache
+E:\Học Tập\Kỳ 4\CShap5\ASSM2\src\Core\Application\obj\Debug\net10.0\Application.AssemblyInfo.cs
+E:\Học Tập\Kỳ 4\CShap5\ASSM2\src\Core\Application\obj\Debug\net10.0\Application.csproj.CoreCompileInputs.cache
+E:\Học Tập\Kỳ 4\CShap5\ASSM2\src\Core\Application\obj\Debug\net10.0\Applicat.44B5EDA2.Up2Date
+E:\Học Tập\Kỳ 4\CShap5\ASSM2\src\Core\Application\obj\Debug\net10.0\Application.dll
+E:\Học Tập\Kỳ 4\CShap5\ASSM2\src\Core\Application\obj\Debug\net10.0\refint\Application.dll
+E:\Học Tập\Kỳ 4\CShap5\ASSM2\src\Core\Application\obj\Debug\net10.0\Application.pdb
+E:\Học Tập\Kỳ 4\CShap5\ASSM2\src\Core\Application\obj\Debug\net10.0\ref\Application.dll
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình C#5\PROJECT\ASM2\ASSM2\src\Core\Application\bin\Debug\net10.0\Application.deps.json
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình C#5\PROJECT\ASM2\ASSM2\src\Core\Application\bin\Debug\net10.0\Application.dll
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình C#5\PROJECT\ASM2\ASSM2\src\Core\Application\bin\Debug\net10.0\Application.pdb
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình C#5\PROJECT\ASM2\ASSM2\src\Core\Application\bin\Debug\net10.0\Domain.dll
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình C#5\PROJECT\ASM2\ASSM2\src\Core\Application\bin\Debug\net10.0\Domain.pdb
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình C#5\PROJECT\ASM2\ASSM2\src\Core\Application\obj\Debug\net10.0\Application.csproj.AssemblyReference.cache
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình C#5\PROJECT\ASM2\ASSM2\src\Core\Application\obj\Debug\net10.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình C#5\PROJECT\ASM2\ASSM2\src\Core\Application\obj\Debug\net10.0\Application.AssemblyInfoInputs.cache
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình C#5\PROJECT\ASM2\ASSM2\src\Core\Application\obj\Debug\net10.0\Application.AssemblyInfo.cs
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình C#5\PROJECT\ASM2\ASSM2\src\Core\Application\obj\Debug\net10.0\Application.csproj.CoreCompileInputs.cache
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình C#5\PROJECT\ASM2\ASSM2\src\Core\Application\obj\Debug\net10.0\Applicat.44B5EDA2.Up2Date
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình C#5\PROJECT\ASM2\ASSM2\src\Core\Application\obj\Debug\net10.0\Application.dll
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình C#5\PROJECT\ASM2\ASSM2\src\Core\Application\obj\Debug\net10.0\refint\Application.dll
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình C#5\PROJECT\ASM2\ASSM2\src\Core\Application\obj\Debug\net10.0\Application.pdb
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình C#5\PROJECT\ASM2\ASSM2\src\Core\Application\obj\Debug\net10.0\ref\Application.dll
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Application\bin\Debug\net10.0\Application.deps.json
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Application\bin\Debug\net10.0\Application.dll
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Application\bin\Debug\net10.0\Application.pdb
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Application\bin\Debug\net10.0\Domain.dll
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Application\bin\Debug\net10.0\Domain.pdb
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Application\obj\Debug\net10.0\Application.csproj.AssemblyReference.cache
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Application\obj\Debug\net10.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Application\obj\Debug\net10.0\Application.AssemblyInfoInputs.cache
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Application\obj\Debug\net10.0\Application.AssemblyInfo.cs
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Application\obj\Debug\net10.0\Application.csproj.CoreCompileInputs.cache
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Application\obj\Debug\net10.0\Applicat.44B5EDA2.Up2Date
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Application\obj\Debug\net10.0\Application.dll
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Application\obj\Debug\net10.0\refint\Application.dll
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Application\obj\Debug\net10.0\Application.pdb
+D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Application\obj\Debug\net10.0\ref\Application.dll

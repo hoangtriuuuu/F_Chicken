@@ -1,0 +1,83 @@
+:root {
+    /* ═══════════════════════════════════════════════════
+       🍗 F-CHICKEN — Sophisticated Modern Design System
+       ═══════════════════════════════════════════════════ */
+
+    /* Primary — Deep Rich Red (trầm, cao cấp, ngành F&B) */
+    --color-primary: #B5121B;
+    --color-primary-dark: #8E0E15;
+    --color-primary-light: #D4343D;
+    --color-primary-glow: rgba(181, 18, 27, 0.08);
+
+    /* Accent — Warm Amber (điểm nhấn ấm áp) */
+    --color-accent: #D4890C;
+    --color-accent-warm: #F5A623;
+    --color-accent-glow: rgba(212, 137, 12, 0.1);
+
+    /* Neutral — Warm Tones */
+    --color-secondary: #64605B;
+    --color-secondary-light: #F5F0EB;
+
+    /* Background — Warm Off-white (giảm chói, dịu mắt) */
+    --color-background: #FAF9F6;
+    --color-surface: #FFFFFF;
+    --color-surface-soft: #F5F0EB;
+    --color-surface-elevated: #FFFFFF;
+
+    /* Text — Xám đậm thay vì đen tuyệt đối */
+    --color-text: #2D2926;
+    --color-text-secondary: #6B6560;
+    --color-text-muted: #9E9891;
+
+    /* Borders — Ấm áp, không lạnh lẽo */
+    --color-border: #E8E2DB;
+    --color-border-soft: rgba(45, 41, 38, 0.06);
+
+    /* Semantic Colors */
+    --color-success: #2E7D4F;
+    --color-warning: #D4890C;
+    --color-danger: #B5121B;
+
+    /* Glassmorphism — Cực kỳ nhẹ, tinh tế */
+    --glass-bg: rgba(255, 255, 255, 0.65);
+    --glass-border: rgba(255, 255, 255, 0.25);
+    --glass-shadow: 0 8px 32px rgba(45, 41, 38, 0.08);
+    --glass-blur: 16px;
+
+    /* Spacing System (8pt) */
+    --spacing-xs: 4px;
+    --spacing-sm: 8px;
+    --spacing-md: 16px;
+    --spacing-lg: 24px;
+    --spacing-xl: 32px;
+    --spacing-2xl: 48px;
+
+    /* Border Radius */
+    --radius-sm: 6px;
+    --radius-md: 10px;
+    --radius-lg: 16px;
+    --radius-xl: 20px;
+    --radius-2xl: 28px;
+    --radius-pill: 9999px;
+
+    /* Shadows — Soft Ambient (ấm, không lạnh) */
+    --shadow-sm: 0 2px 8px rgba(45, 41, 38, 0.04);
+    --shadow-md: 0 4px 16px rgba(45, 41, 38, 0.06);
+    --shadow-lg: 0 8px 30px rgba(45, 41, 38, 0.08);
+    --shadow-xl: 0 16px 48px rgba(45, 41, 38, 0.10);
+    --shadow-card: 0 4px 20px rgba(45, 41, 38, 0.06);
+    --shadow-card-hover: 0 12px 40px rgba(45, 41, 38, 0.12);
+
+    /* Transitions */
+    --transition-fast: 0.15s ease;
+    --transition-normal: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-slow: 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+
+    /* Z-Index Hierarchy */
+    --z-bottom-nav: 9000;
+    --z-overlay: 9900;
+    --z-header: 9999;
+    --z-drawer: 10000;
+    --z-modal: 10001;
+    --z-toast: 20000;
+}
