@@ -3750,11 +3750,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FPT\\HỌC KÌ 5\\NET1051 - Lập trình Cs5\\PROJECT\\ASM2\\ASSM2\\src\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "D:\\FPT\\portfolio\\ASSM2\\src\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "D:\\FPT\\HỌC KÌ 5\\NET1051 - Lập trình Cs5\\PROJECT\\ASM2\\ASSM2\\src\\WebAPI\\WebAPI.csproj",
+      "projectPath": "D:\\FPT\\portfolio\\ASSM2\\src\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\FPT\\HỌC KÌ 5\\NET1051 - Lập trình Cs5\\PROJECT\\ASM2\\ASSM2\\src\\WebAPI\\obj\\",
+      "outputPath": "D:\\FPT\\portfolio\\ASSM2\\src\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3775,11 +3775,11 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "D:\\FPT\\HỌC KÌ 5\\NET1051 - Lập trình Cs5\\PROJECT\\ASM2\\ASSM2\\src\\Core\\Application\\Application.csproj": {
-              "projectPath": "D:\\FPT\\HỌC KÌ 5\\NET1051 - Lập trình Cs5\\PROJECT\\ASM2\\ASSM2\\src\\Core\\Application\\Application.csproj"
+            "D:\\FPT\\portfolio\\ASSM2\\src\\Core\\Application\\Application.csproj": {
+              "projectPath": "D:\\FPT\\portfolio\\ASSM2\\src\\Core\\Application\\Application.csproj"
             },
-            "D:\\FPT\\HỌC KÌ 5\\NET1051 - Lập trình Cs5\\PROJECT\\ASM2\\ASSM2\\src\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\FPT\\HỌC KÌ 5\\NET1051 - Lập trình Cs5\\PROJECT\\ASM2\\ASSM2\\src\\Infrastructure\\Infrastructure.csproj"
+            "D:\\FPT\\portfolio\\ASSM2\\src\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\FPT\\portfolio\\ASSM2\\src\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -4259,5 +4259,17 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AutoMapper' 12.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }

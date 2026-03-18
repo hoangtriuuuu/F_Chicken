@@ -42,3 +42,15 @@ D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Domain
 D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Domain\obj\Debug\net10.0\refint\Domain.dll
 D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.pdb
 D:\FPT\HỌC KÌ 5\NET1051 - Lập trình Cs5\PROJECT\ASM2\ASSM2\src\Core\Domain\obj\Debug\net10.0\ref\Domain.dll
+D:\FPT\portfolio\ASSM2\src\Core\Domain\bin\Debug\net10.0\Domain.deps.json
+D:\FPT\portfolio\ASSM2\src\Core\Domain\bin\Debug\net10.0\Domain.dll
+D:\FPT\portfolio\ASSM2\src\Core\Domain\bin\Debug\net10.0\Domain.pdb
+D:\FPT\portfolio\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\portfolio\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+D:\FPT\portfolio\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+D:\FPT\portfolio\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+D:\FPT\portfolio\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.sourcelink.json
+D:\FPT\portfolio\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.dll
+D:\FPT\portfolio\ASSM2\src\Core\Domain\obj\Debug\net10.0\refint\Domain.dll
+D:\FPT\portfolio\ASSM2\src\Core\Domain\obj\Debug\net10.0\Domain.pdb
+D:\FPT\portfolio\ASSM2\src\Core\Domain\obj\Debug\net10.0\ref\Domain.dll
