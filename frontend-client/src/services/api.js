@@ -1,6 +1,9 @@
 import axios from 'axios';
 
-const BASE = import.meta.env.VITE_API_BASE_URL || 'http://localhost:5155/api';
+const BASE = import.meta.env.VITE_API_BASE_URL;
+if (!BASE) {
+  throw new Error('Missing VITE_API_BASE_URL');
+}
 
 const apiClient = axios.create({
     baseURL: BASE,
