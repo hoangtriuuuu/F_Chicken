@@ -1,4 +1,4 @@
-import{c as i,_ as f,a as o,L as d,b as a,e as n,f as s,W as h,n as e}from"./index-B5SJ55Oc.js";import{C as l}from"./chef-hat-FLamLzSf.js";/**
+import{c as i,_ as f,a as o,L as d,b as a,e as n,f as s,W as h,n as e}from"./index-CeF9nBLQ.js";import{C as l}from"./chef-hat-Bm-ZIYRL.js";/**
  * @license lucide-vue-next v0.564.0 - ISC
  *
  * This source code is licensed under the ISC license.
